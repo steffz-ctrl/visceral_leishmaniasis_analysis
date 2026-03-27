@@ -1,0 +1,17 @@
+covariates/
+ftp_downloads/
+hydro_folder/
+nfs/
+shapefiles/
+R/
+*.shp
+*.shx
+*.dbf
+*.prj
+*.tif
+*.tiff
+*.nc
+*.grd
+.Rhistory
+.RData
+.ipynb_checkpoints/
